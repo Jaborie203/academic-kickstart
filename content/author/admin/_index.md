@@ -13,7 +13,7 @@ role = "Postgraduate Student of Computer Science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Shanghaitech University", url = "http://www.shanghaitech.edu.cn/" } ]
+organizations = [ { name = "Shanghaitech University", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
