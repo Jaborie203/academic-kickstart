@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-color_theme = "dark"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -51,12 +51,13 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "chaizhj@shanghaitech.edu.cn"
-phone = "153 1600 2191"
+phone = ""
 address = "393 Middle Huaxia Road, ShanghaiTech University,Pudong, Shanghai, 201210, China"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+#office_hours = """Monday 10:00 to 13:00<br>
+#                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"
@@ -125,13 +126,13 @@ section_pager = false
 sharing = true
 
 # Configuration of publication pages.
-[publications]
+#[publications]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "January 2006"
+  #date_format = "January 2006"
 
   # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  #citation_style = "apa"
 
 # Configuration of project pages.
 [projects]
